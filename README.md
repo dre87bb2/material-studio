@@ -1,5 +1,7 @@
 # Material Studio for IngeTrazo
 
+![GitHub Downloads](https://img.shields.io/github/downloads/dre87bb2/material-studio/total.svg?style=flat-square&color=brightgreen)
+
 Material Studio is a per-material PBR editor and Blender rendering companion for IngeTrazo.
 
 Features include material properties and texture maps, image-based and procedural surface relief,
