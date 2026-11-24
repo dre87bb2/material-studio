@@ -21,3 +21,9 @@ package folder from the release ZIP into the user plugins folder.
 ## License
 
 GPL-3.0-or-later. See `LICENSE`.
+
+## About the Developer
+
+Explore my architectural designs on YouTube.
+
+[![YouTube](https://img.shields.io/badge/YouTube-Desain%2087-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/desain87)
